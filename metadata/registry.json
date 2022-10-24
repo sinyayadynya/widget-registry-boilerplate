@@ -1,17 +1,7 @@
 [
   {
-    "repositoryUrl": "https://github.com/js-widgets/example-widget",
-    "shortcode": "example-widget",
-    "version": "v1.3.1"
-  },
-  {
-    "repositoryUrl": "https://github.com/js-widgets/example-calculator",
-    "shortcode": "example-calculator",
-    "version": "v1.0.7"
-  },
-  {
-    "repositoryUrl": "https://github.com/js-widgets/example-emojis",
-    "shortcode": "example-emojis",
-    "version": "v1.0.4"
+    "repositoryUrl": "https://github.com/sinyayadynya/slider-widget",
+    "shortcode": "slider-widget",
+    "version": "v1.0.0"
   }
 ]
