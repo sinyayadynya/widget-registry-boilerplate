@@ -3,5 +3,10 @@
     "repositoryUrl": "https://github.com/sinyayadynya/slider-widget",
     "shortcode": "slider-widget",
     "version": "v1.0.1"
+  },
+  {
+    "repositoryUrl": "https://github.com/sinyayadynya/example-widget",
+    "shortcode": "example-widget",
+    "version": "v1.0.0"
   }
 ]
