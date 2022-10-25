@@ -2,14 +2,14 @@
   {
     "repositoryUrl": "https://github.com/sinyayadynya/slider-widget",
     "shortcode": "slider-widget",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "directoryUrl": "https://sinyayadynya.github.io/widget-registry-boilerplate/widget-registry/sandbox/slider-widget/v1",
-    "tarballUrl": "/tmp/widget-definitions-QFOlfE/slider-widget.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-lfPvyx/slider-widget.tar.gz",
     "files": [
       "thumbnail.svg"
     ],
-    "updatedAt": "2022-10-24T22:12:02.044Z",
-    "createdAt": "2022-10-24T22:12:02.044Z",
+    "updatedAt": "2022-10-25T11:43:22.781Z",
+    "createdAt": "2022-10-25T11:43:22.781Z",
     "availableTranslations": [
       "en",
       "es",
@@ -33,13 +33,13 @@
     "assetManifest": {
       "files": {
         "main.css": "https://sinyayadynya.github.io/widget-registry-boilerplate/widget-registry/sandbox/slider-widget/v1/static/css/main.9d0afc63.css",
-        "main.js": "https://sinyayadynya.github.io/widget-registry-boilerplate/widget-registry/sandbox/slider-widget/v1/static/js/main.58d9cdac.js",
+        "main.js": "https://sinyayadynya.github.io/widget-registry-boilerplate/widget-registry/sandbox/slider-widget/v1/static/js/main.969a197a.js",
         "static/media/Inter-italic.var.woff2": "https://sinyayadynya.github.io/widget-registry-boilerplate/widget-registry/sandbox/slider-widget/v1/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
         "static/media/Inter-roman.var.woff2": "https://sinyayadynya.github.io/widget-registry-boilerplate/widget-registry/sandbox/slider-widget/v1/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2"
       },
       "entrypoints": [
         "static/css/main.9d0afc63.css",
-        "static/js/main.58d9cdac.js"
+        "static/js/main.969a197a.js"
       ]
     }
   }
